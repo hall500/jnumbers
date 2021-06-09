@@ -11,12 +11,6 @@ package com.flslabs.jnumbers;
  */
 public class Test {
     public static void main(String[] args){ 
-        /*
-        //Change Return Program
-        ChangeReturn cr = new ChangeReturn();
-        cr.init();
-        cr.run(30,40);
-        */
         
         /*
         //Flip Coin Program
@@ -53,7 +47,6 @@ public class Test {
         HappyNumbers happy = new HappyNumbers();
         happy.run(8);
         */
-        
         
     }
 }
